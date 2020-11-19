@@ -2,7 +2,7 @@
 
 - ⚓ I use daily `.php`, `.js`, `.scss`, `.vue` for web apps
 - 🌱 I’m currently learning `.go`
-- 🛷 https://twitter.com/viktorakin
+- 🌌 [Location on that bird app](https://twitter.com/viktorakin)
 <!--
 **victor-akin/victor-akin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
