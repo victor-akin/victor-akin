@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Victor. 
 
-- ⚓ I use daily `.php`, `.js` for web apps
+- ⚓ I use daily `.php`, `.js`, `.scss`, `.vue` for web apps
 - 🌱 I’m currently learning `.go`
 - 🛷 https://twitter.com/viktorakin
 <!--
