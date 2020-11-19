@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Victor. 
 
-- ⚓ I use daily .php .js for web apps
-- 🌱 I’m currently learning Go
+- ⚓ I use daily `.php`, `.js` for web apps
+- 🌱 I’m currently learning `.go`
 - 🛷 https://twitter.com/viktorakin
 <!--
 **victor-akin/victor-akin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
