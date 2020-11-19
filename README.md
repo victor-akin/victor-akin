@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Victor. 
 
-- 😎 
 - ⚓ I use daily .php .js for web apps
 - 🌱 I’m currently learning Go
 - 🛷 https://twitter.com/viktorakin
