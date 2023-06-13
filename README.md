@@ -1,19 +1,1 @@
-### Hi there 👋 I am Victor. 
 
-- ⚓ I use daily `.php`, `.js`, `.scss`, `.vue` for web apps
-- 🌱 I’m currently learning `.go`
-- 🌌 [Location on that bird app](https://twitter.com/viktorakin)
-<!--
-**victor-akin/victor-akin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...🥟
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
